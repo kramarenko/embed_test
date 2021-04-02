@@ -7,10 +7,6 @@
 		"build": "webpack --mode production",
 		"test": "jest"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/kramarenko/embed_test.git"
-	},
 	"keywords": [
 		"editorjs",
 		"@editorjs",
