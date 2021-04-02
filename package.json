@@ -7,10 +7,7 @@
 		"build": "webpack --mode production",
 		"test": "jest"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/kramarenko/embed_test.git"
-	},
+	"repository": "https://github.com/kramarenko/embed_test",
 	"keywords": [
 		"editorjs",
 		"@editorjs",
@@ -22,7 +19,6 @@
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/@kramarenko"
 	},
-	"author": "kramarenko <vasil@kramarenko.com.ua>",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/kramarenko/embed_test/issues"
