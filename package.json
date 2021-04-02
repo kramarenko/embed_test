@@ -1,6 +1,6 @@
 {
 	"name": "embed_test2",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Embed GitHub Gist Tool for Editor.js",
 	"main": "./dist/bundle.js",
 	"scripts": {
@@ -24,10 +24,5 @@
 	"bugs": {
 		"url": "https://github.com/kramarenko/embed_test/issues"
 	},
-	"homepage": "https://github.com/kramarenko/embed_test#readme",
-	"devDependencies": {
-		"jest": "^26.6.3",
-		"webpack": "^5.30.0",
-		"webpack-cli": "^4.6.0"
-	}
+	"homepage": "https://github.com/kramarenko/embed_test#readme"
 }
