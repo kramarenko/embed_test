@@ -22,7 +22,6 @@
 	"publishConfig": {
 		"registry": "https://npm.pkg.github.com/@kramarenko"
 	},
-	"author": "kramarenko <vasil@kramarenko.com.ua>",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/kramarenko/embed_test/issues"
