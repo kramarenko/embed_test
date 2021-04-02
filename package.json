@@ -1,10 +1,10 @@
 {
-	"name": "@kramvas/embed_test",
-	"version": "1.0.5",
+	"name": "embed_test",
+	"version": "1.0.6",
 	"description": "Embed GitHub Gist Tool for Editor.js",
 	"main": "./dist/bundle.js",
 	"scripts": {
-		"build": "webpack --mode production",
+		"start": "webpack --mode production",
 		"test": "jest"
 	},
 	"repository": {
@@ -19,6 +19,9 @@
 		"embed",
 		"tool"
 	],
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/@kramarenko"
+	},
 	"author": "kramarenko <vasil@kramarenko.com.ua>",
 	"license": "ISC",
 	"bugs": {
