@@ -18,12 +18,5 @@
 		"gist",
 		"embed",
 		"tool"
-	],
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/@kramarenko"
-	},
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/kramarenko/embed_test/issues"
-	}
+	]
 }
