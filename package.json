@@ -19,9 +19,6 @@
 		"embed",
 		"tool"
 	],
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/@kramarenko"
-	},
 	"author": "kramarenko <vasil@kramarenko.com.ua>",
 	"license": "ISC",
 	"bugs": {
