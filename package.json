@@ -4,7 +4,7 @@
 	"description": "Embed GitHub Gist Tool for Editor.js",
 	"main": "./dist/bundle.js",
 	"scripts": {
-		"start": "webpack --mode production",
+		"build": "webpack --mode production",
 		"test": "jest"
 	},
 	"repository": {
