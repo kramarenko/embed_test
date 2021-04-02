@@ -22,10 +22,8 @@ jobs:
           node-version: ${{ matrix.node }}
       - run: npm install
       - run: npm test
-      
       - name: List current folder
       - run: ls -la
-      
       - name: Publish to NPM
         uses: ./
         with:
