@@ -6,13 +6,5 @@
 	"scripts": {
 		"build": "webpack --mode production",
 		"test": "jest"
-	},
-	"keywords": [
-		"editorjs",
-		"@editorjs",
-		"github",
-		"gist",
-		"embed",
-		"tool"
-	]
+	}
 }
