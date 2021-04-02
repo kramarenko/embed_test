@@ -25,9 +25,7 @@ jobs:
       - run: npm install
 
       - name: Testing and Build project
-        run: |
-          npm test
-          npm start
+      - run: npm start
 
       - name: List current folder
       - run: ls -la
