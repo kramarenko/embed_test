@@ -25,11 +25,5 @@
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/kramarenko/embed_test/issues"
-	},
-	"homepage": "https://github.com/kramarenko/embed_test#readme",
-	"devDependencies": {
-		"jest": "^26.6.3",
-		"webpack": "^5.30.0",
-		"webpack-cli": "^4.6.0"
 	}
 }
